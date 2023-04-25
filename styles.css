@@ -1,0 +1,80 @@
+.logo-title {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.navbar {
+  background-color: #e5e3ef;
+}
+
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+section h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #3f3d56;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+section p {
+  font-size: 16px;
+  font-weight: 300;
+  color: #3f3d56;
+}
+
+.mystyle {
+  border: 2px solid #7df461;
+  color: #7df461;
+  width: 55%;
+}
+
+#hero .col {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#hero .img-col {
+  justify-content: flex-end;
+  margin-top: 100px;
+}
+
+#hero img {
+  max-width: 130%;
+  width: 130%;
+}
+
+#hero .cards {
+  width: 75%;
+  height: 75%;
+  margin: 0 auto;
+}
+
+#hero .card {
+  box-shadow: 11px 7px 16px #dbdbdb;
+  border: 0;
+  text-align: center;
+}
+
+#hero .icon {
+  width: 200px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #3f3d56;
+  margin-bottom: 20px;
+}
+
+.card-text {
+  font-size: 14px;
+  font-weight: 300;
+  color: #3f3d56;
+}
